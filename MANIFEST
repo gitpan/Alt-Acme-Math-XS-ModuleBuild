@@ -5,12 +5,6 @@ lib/Acme/Math/XS.pod
 lib/Acme/Math/XS/Inline.pm
 lib/Alt/Acme/Math/XS/ModuleBuild.pm
 MANIFEST			This list of files
-master/About.pod
-master/doc/About.swim
-master/doc/Acme/Math/XS.swim
-master/lib/Acme/Math/XS.pm
-master/ReadMe.pod
-master/test/test.t
 README
 t/test.t
 META.yml
