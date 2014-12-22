@@ -4,7 +4,7 @@
       "Ingy döt Net <ingy@cpan.org>"
    ],
    "dynamic_config" : 1,
-   "generated_by" : "Module::Build version 0.421",
+   "generated_by" : "Module::Build version 0.4205",
    "license" : [
       "perl_5"
    ],
@@ -31,6 +31,10 @@
       },
       "Acme::Math::XS::Inline" : {
          "file" : "lib/Acme/Math/XS/Inline.pm"
+      },
+      "Alt::Acme::Math::XS::ModuleBuild" : {
+         "file" : "lib/Alt/Acme/Math/XS/ModuleBuild.pm",
+         "version" : "v0.0.5"
       }
    },
    "release_status" : "stable",
@@ -39,5 +43,5 @@
          "http://dev.perl.org/licenses/"
       ]
    },
-   "version" : "v0.0.4"
+   "version" : "v0.0.5"
 }
